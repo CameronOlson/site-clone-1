@@ -1,0 +1,42 @@
+.bg{
+    background-image: url(/assetts/Pen.png);
+    height: 400px;
+    width: auto;
+}
+.main{
+    background-color:#469ae0;
+}
+.main-words{
+    color: whitesmoke;
+}
+.map{
+    background-color: rgb(128, 131, 138);
+}
+
+.ghost{
+    color: #fff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 1.5em;
+}
+.ghost-big{
+    color: #fff;
+    text-shadow: 1px 1px 1px #ccc;
+    font-size: 3em;
+}
+.ghost-small{
+    color: #fff;
+    align-content: center;
+
+}
+.app-space{
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    ali
+}
+.tall{
+    height: 10rem;
+}
+.taller{
+    height: 15rem
+}
